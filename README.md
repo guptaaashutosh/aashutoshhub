@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashutosh Gupta</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashutoshhub&label=Profile%20views&color=0e75b6&style=flat" alt="aashutoshhub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshhub" alt="aashutoshhub" /></a> </p>
 
 - 🔭 I’m currently working on **Mern Stack Project**
 
