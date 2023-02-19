@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://aashutoshgupta.hashnode.dev/](https://aashutoshgupta.hashnode.dev/)
+<!-- - 📝 I regularly write articles on [https://aashutoshgupta.hashnode.dev/](https://aashutoshgupta.hashnode.dev/) -->
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **full Stack**
 
 - 📫 How to reach me **guptaaashu354@gmail.com**
 
