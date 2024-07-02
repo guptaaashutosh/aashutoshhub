@@ -1,0 +1,20 @@
+repo_name: guptaaashutosh/aashutoshhub
+report_id: 2d09f876d2951f9b44e4c2a1694c5435
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T11:30:52+00:00'
+requested_by: guptaaashutosh
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/guptaaashutosh/aashutoshhub
+  detection_source: Repo Metadata
